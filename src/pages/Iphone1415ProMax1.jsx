@@ -6,7 +6,7 @@ export default function Iphone1415ProMax1() {
           <div className="flex flex-row box-sizing-border">
             {/* <div className="bg-[url('src\pages\Image1.png')] bg-[50%_50%] bg-cover bg-no-repeat m-[0_7px_2px_0] w-[20px] h-[20px]">
             </div> */}
-            <img src="src\pages\Image1.png" className="bg-[50%_50%] bg-cover bg-no-repeat m-[0_7px_2px_0] w-[20px] h-[20px]" alt="" />
+            <img src="src/pages/Image1.png" className="bg-[50%_50%] bg-cover bg-no-repeat m-[0_7px_2px_0] w-[20px] h-[20px]" alt="" />
             <div className="m-[10px_0_0_0] inline-block break-words font-['Inter'] font-normal text-[7px] leading-[1.714] text-[#FFFFFF]">
             ONLINE CERTIFICATION
             </div>
@@ -42,7 +42,7 @@ export default function Iphone1415ProMax1() {
           </span>
         </div>
         <div className="m-[0_0_34px_0] flex flex-row self-start w-[fit-content] box-sizing-border">
-          <img src="src\pages\Image28.png" className="h-20" alt="" />
+          <img src="src/pages/Image28.png" className="h-20" alt="" />
           <div className="m-[6px_0_0_0] flex flex-col box-sizing-border">
             <div className="m-[0_13px_16px_13px] inline-block self-start break-words font-['Inter'] font-normal text-[7px] leading-[1.571] text-[#171A1F]">
             ALRAQAB<br />
