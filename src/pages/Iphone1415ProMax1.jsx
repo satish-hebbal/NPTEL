@@ -10,7 +10,7 @@ export default function Iphone1415ProMax1() {
           <div className="flex flex-row box-sizing-border">
             {/* <div className="bg-[url('src\pages\Image1.png')] bg-[50%_50%] bg-cover bg-no-repeat m-[0_7px_2px_0] w-[20px] h-[20px]">
             </div> */}
-            <img src="src/pages/Image1.png" className="bg-[50%_50%] bg-cover bg-no-repeat m-[0_7px_2px_0] w-[20px] h-[20px]" alt="" />
+            <img src=image1 className="bg-[50%_50%] bg-cover bg-no-repeat m-[0_7px_2px_0] w-[20px] h-[20px]" alt="" />
             <div className="m-[10px_0_0_0] inline-block break-words font-['Inter'] font-normal text-[7px] leading-[1.714] text-[#FFFFFF]">
             ONLINE CERTIFICATION
             </div>
