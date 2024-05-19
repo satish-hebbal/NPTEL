@@ -41,7 +41,7 @@ export default function Iphone1415ProMax1() {
           </span>
         </div>
         <div className="m-[0_0_34px_0] flex flex-row self-start w-[fit-content] box-sizing-border">
-        
+          <h1>this is image</h1>
           <img src="assets\images\Image28.png" className="h-20" alt="" />
           <div className="m-[6px_0_0_0] flex flex-col box-sizing-border">
             <div className="m-[0_13px_16px_13px] inline-block self-start break-words font-['Inter'] font-normal text-[7px] leading-[1.571] text-[#171A1F]">
