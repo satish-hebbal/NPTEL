@@ -1,3 +1,7 @@
+import image28 from './pages/Image28.png';
+import image1 from './pages/Image1.png';
+
+
 export default function Iphone1415ProMax1() {
   return (
     <div className="bg-[#FFFFFF] flex flex-col p-[46px_20px_380px_20px] box-sizing-border">
@@ -42,7 +46,7 @@ export default function Iphone1415ProMax1() {
           </span>
         </div>
         <div className="m-[0_0_34px_0] flex flex-row self-start w-[fit-content] box-sizing-border">
-          <img src="src/pages/Image28.png" className="h-20" alt="" />
+          <img src=image28 className="h-20" alt="" />
           <div className="m-[6px_0_0_0] flex flex-col box-sizing-border">
             <div className="m-[0_13px_16px_13px] inline-block self-start break-words font-['Inter'] font-normal text-[7px] leading-[1.571] text-[#171A1F]">
             ALRAQAB<br />
